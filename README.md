@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Technical Skills
-- **Analytics & Programming: SQL (PostgreSQL, MySQL), R, Python (Pandas, Numpy), Statistical Modeling, Data Cleaning, Feature Engineering
-- **Tools: Power BI, Tableau, Excel, Supabase, Jira
+- **Analytics & Programming:** SQL (PostgreSQL, MySQL), R, Python (Pandas, Numpy), Statistical Modeling, Data Cleaning, Feature Engineering
+- **Tools:** Power BI, Tableau, Excel, Supabase, Jira
 
 ## About Me
 - 🎓 Statistics & Computational Mathematics @ University of Waterloo
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - **Predictive Analytics**: Forecasting trends using historical data
 - **Machine Learning**: Translating models into business insights
 
-- **Huge foodie 😋🍽️**
-- **Plyaing PUBG mobile for 3 years 🔫**
-- **Bouldering 🧗, Gym 🏋️‍♀️**
+- Huge foodie 😋🍽️
+- Plyaing PUBG mobile for 3 years 🔫
+- Bouldering 🧗, Gym 🏋️‍♀️
 
 
 ## Connect with Me
