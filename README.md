@@ -1,37 +1,20 @@
-## Hi, I'm Eugene Sim! 👋
-
-<!--
-**eugenesimm/eugenesimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Eugene Sim! 👋
 
 ## Technical Skills
-- **Analytics & Programming:** SQL (PostgreSQL, MySQL), R, Python (Pandas, Numpy), Statistical Modeling, Data Cleaning, Feature Engineering
-- **Tools:** Power BI, Tableau, Excel, Supabase, Jira
+- **Analytics & Programming**: SQL (PostgreSQL, MySQL), R, Python (Pandas, NumPy), Statistical Modeling, Data Cleaning, Feature Engineering
+- **BI & Tools**: Power BI, Tableau, Excel, Supabase, Jira
 
 ## About Me
 - 🎓 Statistics & Computational Mathematics @ University of Waterloo
-- Passionate about data analytics, predictive modeling, and statistical computing
+- Data Analyst with a strong foundation in statistics, focused on extracting actionable insights from complex datasets
+- Experienced in building clean, analysis-ready datasets and KPIs for stakeholder-facing dashboards.
+
+## Representative Project
+- Built end-to-end SQL-driven analytics projects analyzing customer behavior and revenue patterns, translating data into business-focused insights and dashboard-ready metrics
 
 ## Interests
-- **Predictive Analytics**: Forecasting trends using historical data
-- **Machine Learning**: Translating models into business insights
-
-- Huge foodie 😋🍽️
-- Plyaing PUBG mobile for 3 years 🔫
-- Bouldering 🧗, Gym 🏋️‍♀️
-
+- **Business & Predictive Analytics**: Revenue trends, customer behavior analysis, KPI-driven decision making
 
 ## Connect with Me
-- https://www.linkedin.com/in/eugene-sim-75002a213/
-- eugenesim.eg@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eugene-sim-75002a213/)
+- 📧 eugenesim.eg@gmail.com
